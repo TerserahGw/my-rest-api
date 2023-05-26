@@ -1,7 +1,7 @@
 const fs = require('fs')
 
 global.creator = 'KeiLa'// yourname
-global.MONGO_DB_URI = "mongodb+srv://zortysky:<AnimeLover>@cluster0.6a4oaq8.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
+global.MONGO_DB_URI = "mongodb+srv://zortysky:AnimeLover@cluster0.6a4oaq8.mongodb.net/?retryWrites=true&w=majority" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
 global.your_email = "zortysky@gmail.com" //email
 global.email_password = "ghehwxipznvqncoe" //application password email
